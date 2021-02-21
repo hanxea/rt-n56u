@@ -734,7 +734,7 @@ function show_menu(L1, L2, L3){
 
 function show_footer(){
 	footer_code = '<div align="center" class="bottom-image"></div>\n';
-	footer_code +='<div align="center" class="copyright">© 2011-2021 <a href="https://bitbucket.org/padavan/rt-n56u" target="blank">Padavan</a> | modify by <a href="https://hanxea.gitee.io/random" target="blank">random</a> ></div>\n';
+	footer_code +='<div align="center" class="copyright">© 2011-2021 <a href="https://bitbucket.org/padavan/rt-n56u" target="blank">Padavan</a> | modify by <a href="https://hanxea.gitee.io/random" target="blank">random</a></div>\n';
 	footer_code +='<div align="center">\n';
 	footer_code +='  <span>Allow multiple changes</span></br>\n';
 	footer_code +='</div>\n';
