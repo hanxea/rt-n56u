@@ -280,7 +280,7 @@ function applyRule(){
 											</td>
 										</tr>
 										<tr id="row_wmen" style="display:none">
-											<th width="50%" >认证服务</th>
+											<th width="50%" >认证助手</th>
 											<td>
 													<div class="main_itoggle">
 													<div id="w_men_on_of">
