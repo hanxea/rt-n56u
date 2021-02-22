@@ -237,7 +237,7 @@ function applyRule(){
 											</td>
 										</tr>
 										<tr id="row_wscu" style="display:none">
-											<th width="50%">Scutclient</th>
+											<th width="50%">校园服务</th>
 											<td>
 													<div class="main_itoggle">
 													<div id="w_scu_on_of">
@@ -252,7 +252,7 @@ function applyRule(){
 										</tr>
 										
 										<tr id="row_wdnsf" style="display:none">
-											<th width="50%" >DNS-forwarder</th>
+											<th width="50%" >DNS转发</th>
 											<td>
 													<div class="main_itoggle">
 													<div id="w_dnsf_on_of">
@@ -280,7 +280,7 @@ function applyRule(){
 											</td>
 										</tr>
 										<tr id="row_wmen" style="display:none">
-											<th width="50%" >Mentohust</th>
+											<th width="50%" >认证服务</th>
 											<td>
 													<div class="main_itoggle">
 													<div id="w_men_on_of">
